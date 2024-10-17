@@ -7,7 +7,7 @@ Software Engineer
 I am a software engineer passionate about creating and learning new technologies.
 
 * 🌍  I'm based in Costa Rica
-* ✉️  You can contact me at [andreshidalgo92@gmail.com](mailto:andreshidalgo92@gmail.com)
+* ✉️  You can contact me at [andreshidalgo92@gmail.com](mailto:andres.hidalgo01@outlook.com)
 
 ### Skills
 
